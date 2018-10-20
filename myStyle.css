@@ -1,7 +1,12 @@
 /* myStyle.css */
 
+<<<<<<< HEAD
 body {
     background-color: black;
+=======
+.body {
+	background: #000;
+>>>>>>> 434b9cacf685b85435b1b7515ad22165063e28d1
 }
 
 /* Style the header */
